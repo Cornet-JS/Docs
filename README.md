@@ -1,0 +1,2 @@
+# Documentation
+Cornet.JS documentation!
